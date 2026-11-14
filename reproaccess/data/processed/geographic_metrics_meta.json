@@ -1,0 +1,9 @@
+{
+  "county_access_rows": 3144,
+  "state_metrics_rows": 51,
+  "facilities": {
+    "status": "unavailable",
+    "message": "ANSIRH facility CSV not found. Mode B facility simulations disabled. Expected columns: facility_id,name,state_abbr,latitude,longitude"
+  },
+  "distance_metric": "Miles from county centroid to nearest non-ban state centroid (Census cartographic boundaries + KFF policy). Not clinic travel time."
+}

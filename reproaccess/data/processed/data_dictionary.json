@@ -1,0 +1,44 @@
+{
+  "state_policy": {
+    "description": "State abortion policy status from KFF State Health Facts",
+    "columns": {
+      "state_fips": "Two-digit state FIPS code",
+      "state_abbr": "Postal abbreviation",
+      "state_name": "State or DC name",
+      "statutory_limit": "Statutory gestational limit text from KFF",
+      "policy_category": "Normalized category used for mapping/analytics",
+      "mandatory_waiting_period": "Yes/No/\u2014 (ban) from KFF waiting-period indicator",
+      "waiting_period_length": "Length of waiting period when applicable",
+      "source_url": "Primary KFF source URL",
+      "extraction_date": "Date this file was extracted/curated",
+      "is_synthetic": "Must be False for observed data"
+    }
+  },
+  "monthly_provision": {
+    "description": "Monthly abortion provision estimates (Guttmacher OSF)",
+    "columns": {
+      "state_abbr": "Postal abbreviation (states without total bans)",
+      "month": "Month midpoint date",
+      "abortions_median": "Posterior median estimate (rounded)",
+      "abortions_lower": "Lower bound of uncertainty interval",
+      "abortions_upper": "Upper bound of uncertainty interval",
+      "source_url": "Guttmacher/OSF citation URL",
+      "publish_date": "Guttmacher publish date string"
+    }
+  },
+  "state_population": {
+    "description": "Women ages 15\u201344 from Census civilian pop estimates 2023",
+    "columns": {
+      "state_fips": "Two-digit FIPS",
+      "state_name": "State name",
+      "state_abbr": "Postal abbreviation",
+      "women_15_44": "Sum of female civilian population ages 15\u201344",
+      "year": "Estimate year"
+    }
+  },
+  "files": {
+    "monthly_provision": "data/processed/monthly_provision.parquet",
+    "state_policy": "data/processed/state_policy.parquet",
+    "state_population": "data/processed/state_population.parquet"
+  }
+}

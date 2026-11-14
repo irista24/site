@@ -1,0 +1,52 @@
+state_fips,state_name,women_15_44,state_abbr,year,source_url,extraction_date,is_synthetic
+01,Alabama,997542,AL,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+02,Alaska,141347,AK,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+04,Arizona,1439284,AZ,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+05,Arkansas,595025,AR,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+06,California,7909425,CA,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+08,Colorado,1218546,CO,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+09,Connecticut,688479,CT,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+10,Delaware,191029,DE,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+11,District of Columbia,182864,DC,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+12,Florida,4100310,FL,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+13,Georgia,2269533,GA,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+15,Hawaii,253173,HI,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+16,Idaho,388528,ID,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+17,Illinois,2472671,IL,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+18,Indiana,1341685,IN,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+19,Iowa,610677,IA,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+20,Kansas,569961,KS,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+21,Kentucky,858285,KY,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+22,Louisiana,907102,LA,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+23,Maine,247302,ME,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+24,Maryland,1206358,MD,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+25,Massachusetts,1413980,MA,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+26,Michigan,1897642,MI,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+27,Minnesota,1108736,MN,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+28,Mississippi,579276,MS,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+29,Missouri,1200104,MO,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+30,Montana,211455,MT,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+31,Nebraska,384611,NE,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+32,Nevada,623899,NV,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+33,New Hampshire,254752,NH,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+34,New Jersey,1759584,NJ,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+35,New Mexico,404526,NM,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+36,New York,3858097,NY,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+37,North Carolina,2132409,NC,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+38,North Dakota,154293,ND,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+39,Ohio,2249474,OH,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+40,Oklahoma,807527,OK,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+41,Oregon,834544,OR,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+42,Pennsylvania,2447593,PA,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+44,Rhode Island,216412,RI,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+45,South Carolina,1028036,SC,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+46,South Dakota,170062,SD,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+47,Tennessee,1407075,TN,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+48,Texas,6376419,TX,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+49,Utah,754211,UT,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+50,Vermont,120297,VT,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+51,Virginia,1704998,VA,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+53,Washington,1567304,WA,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+54,West Virginia,312941,WV,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+55,Wisconsin,1114767,WI,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
+56,Wyoming,109457,WY,2023,https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv,2026-11-14,False
