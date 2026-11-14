@@ -1,0 +1,49 @@
+{
+  "generated": "2026-11-14",
+  "sources": [
+    {
+      "name": "Guttmacher Monthly Abortion Provision Study",
+      "url": "https://osf.io/k4x7t/",
+      "file": "data/raw/guttmacher_monthly_provision.csv",
+      "status": "ok",
+      "extraction_date": "2026-11-14"
+    },
+    {
+      "name": "Census cartographic boundaries \u2014 states (2023 20m)",
+      "url": "https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_state_20m.zip",
+      "file": "data/raw/census_states",
+      "status": "ok",
+      "extraction_date": "2026-11-14"
+    },
+    {
+      "name": "Census cartographic boundaries \u2014 counties (2023 20m)",
+      "url": "https://www2.census.gov/geo/tiger/GENZ2023/shp/cb_2023_us_county_20m.zip",
+      "file": "data/raw/census_counties",
+      "status": "ok",
+      "extraction_date": "2026-11-14"
+    },
+    {
+      "name": "Census state age-sex civilian population estimates 2023",
+      "url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/asrh/sc-est2023-agesex-civ.csv",
+      "file": "data/raw/sc-est2023-agesex-civ.csv",
+      "status": "ok",
+      "extraction_date": "2026-11-14"
+    },
+    {
+      "name": "KFF Abortion Policy (gestational limits + waiting periods)",
+      "url": "https://www.kff.org/womens-health-policy/abortion-in-the-u-s-dashboard/",
+      "file": "data/raw/kff_abortion_policy.csv",
+      "status": "ok",
+      "note": "Curated extraction from KFF State Health Facts public indicator tables. If you prefer an official CSV export, place it at data/raw/kff_abortion_policy.csv using the column schema documented in README.md.",
+      "extraction_date": "2026-11-14"
+    },
+    {
+      "name": "ANSIRH Abortion Facility Database (optional)",
+      "url": "https://www.ansirh.org/",
+      "file": "data/raw/ansirh_facilities.csv",
+      "status": "unavailable",
+      "note": "Optional. Place a CSV with columns facility_id,name,state_abbr,latitude,longitude to enable Mode B facility simulations. Coordinates are never fabricated.",
+      "extraction_date": "2026-11-14"
+    }
+  ]
+}

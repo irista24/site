@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+.env
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.streamlit/secrets.toml
+*.log
+.ipynb_checkpoints/
+data/raw/*.zip
+data/raw/kff_*.html
+data/raw/acs_*.json
+# Keep processed tables and curated CSVs in git for Streamlit Cloud
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/processed/**
+!data/raw/*.csv
+!data/raw/*.json
+!data/raw/census_states/**
+!data/raw/census_counties/**
